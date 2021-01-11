@@ -1,0 +1,3 @@
+rootProject.name = "MyJniDemo"
+include ':app'
+include ':myconvertmp3'
